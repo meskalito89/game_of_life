@@ -1,0 +1,23 @@
+.element {
+  width: 15px;
+  height: 15px;
+  display: inline-flex;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.dead {
+  background-color: #630e0e;
+}
+
+.life {
+  background-color: #079441;
+}
+
+.row {
+  height: 17px;
+}
+
+.buttons {
+  display: flex;
+}
